@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# ⚠️ I've moved! You can find my current profile, all my repositories, and contact me on my main account: @elenacanchog.
+
+# ⚠️ ¡Me he mudado! Puedes encontrar mi perfil actual, todos mis repositorios y contactar conmigo en mi cuenta principal: @elenacanchog.
+
 <!--
 **WonderBattle/WonderBattle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
